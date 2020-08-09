@@ -1,0 +1,142 @@
+"Phrases"
+{
+	"announce"
+	{
+		"en"		"Say !c4timer or /c4timer to set your c4 timer sounds preferences"
+		"ru"		"Скажите !c4timer или /c4timer, чтобы настроить звуки c4"
+	}
+	"enable sound"
+	{
+		"en"		"Enable c4 Sounds"
+		"ru"		"Включить звуки c4"
+	}
+	"disable sound"
+	{
+		"en"		"Disable c4 Sounds"
+		"ru"		"Отключить звуки c4"
+	}
+	"enable chat"
+	{
+		"en"		"Enable Chat Timer"
+		"ru"		"Включить Таймер в Чате"
+	}
+	"disable chat"
+	{
+		"en"		"Disable Chat Timer"
+		"ru"		"Отключить Таймер в Чате"
+	}
+	"enable hud"
+	{
+		"en"		"Enable HUD Timer"
+		"ru"		"Включить Таймер HUD"
+	}
+	"disable hud"
+	{
+		"en"		"Disable HUD Timer"
+		"ru"		"Отключить Таймер HUD"
+	}
+	"enable center"
+	{
+		"en"		"Enable Center Timer"
+		"ru"		"Включить Таймер в Центре"
+	}
+	"disable center"
+	{
+		"en"		"Disable Center Timer"
+		"ru"		"Отключить Таймер в Центре"
+	}
+	"c4 menu"
+	{
+		"en"		"c4 Timer Menu"
+		"ru"		"Меню таймера c4"
+	}
+	"exit"
+	{
+		"en"		"Exit"
+		"ru"		"Выйти"
+	}
+	"bomb exploded"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} successfully destroyed the target"
+		"ru"		"{1} успешно уничтожил объект"
+	}
+	"bomb defused"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} successfully defused the c4"
+		"ru"		"{1} успешно обезвредил бомбу"
+	}
+	"countdown 1"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+		"ru"		"{1}"
+	}
+	"countdown 2"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+		"ru"		"{1}"
+	}
+	"countdown 3"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+		"ru"		"{1}"
+	}
+	"countdown 4"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+		"ru"		"{1}"
+	}
+	"countdown 5"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+		"ru"		"{1}"
+	}
+	"countdown 6"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+		"ru"		"{1}"
+	}
+	"countdown 7"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+		"ru"		"{1}"
+	}
+	"countdown 8"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+		"ru"		"{1}"
+	}
+	"countdown 9"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+		"ru"		"{1}"
+	}
+	"countdown 10"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+		"ru"		"{1}"
+	}
+	"countdown 20"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1} seconds until explosion"
+		"ru"		"{1} секунд до взрыва"
+	}
+	"countdown 30"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1} seconds until explosion"
+		"ru"		"{1} секунд до взрыва"
+	}
+}
